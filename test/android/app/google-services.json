@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "839903476869",
+    "project_id": "coffee-selling-react-app",
+    "storage_bucket": "coffee-selling-react-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839903476869:android:f033e7e784366ec62bbdec",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839903476869-g92qu0n1u5678iussenu0h95ii18fe76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coffeesellingreactapp",
+            "certificate_hash": "fd1e29c1417522f58e8d353c5746c502be9ffdfa"
+          }
+        },
+        {
+          "client_id": "839903476869-a95c71824dc15atop1f9iqs59lbkq3ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwI08MJzvDu7ohXkDRSXXJgC6E4R6oiZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839903476869-a95c71824dc15atop1f9iqs59lbkq3ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
